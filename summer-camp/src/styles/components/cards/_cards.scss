@@ -1,0 +1,18 @@
+// .grille {
+//   margin: 30px auto;
+//   display: grid;
+//   grid-template-columns: repeat(auto-fill, 300px);
+//   justify-content: center;
+//   grid-gap: 10px;
+// }
+
+.cards-content {
+  width: 300px;
+  border-radius: 10px;
+  margin: 1rem auto 5rem;
+  background-color: #d3eae8;
+  border-style: none;
+  img {
+    border-radius: 10px 10px 0 0;
+  }
+}

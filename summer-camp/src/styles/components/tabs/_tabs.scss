@@ -1,0 +1,10 @@
+.tabs {
+  border-radius: 15px;
+  background-color: #d3eae8;
+  padding: 3rem;
+  margin: 1rem auto 5rem;
+
+  .tab-info {
+    border-left: 1px solid $primary;
+  }
+}
